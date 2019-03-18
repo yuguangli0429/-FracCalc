@@ -6,7 +6,10 @@ This project is designed to help you practice building your own object class and
 The Fraction class is an object that holds information about a fraction (numerator and denominator). It will have several constructors and both private and public methods implementing the behavior of a fraction. 
 
 The FractionCalculator class is a class that will allow the user to enter in fractions and operations, calculating and displaying the result. It will run until the user tells it to quit. When this program is complete, you won’t have to second guess your fraction arithmetic ever again!
+
+
 Sample Output:
+
 This program is a fractional calculator
 It will add, subtract, multiply, and divide fractions until you type Q tp quit
 Please enter your fraction in the form of a/b, where a and b are integers
